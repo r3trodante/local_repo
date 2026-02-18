@@ -1,1 +1,1 @@
-Conflict test from dev branch
+This is conflict resolution
