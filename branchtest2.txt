@@ -1,1 +1,1 @@
-This is conflict test from second branch
+This is conflict resolution
